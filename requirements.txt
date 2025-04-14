@@ -1,0 +1,7 @@
+flet
+markdown2
+beautifulsoup4
+python-docx
+pyyaml
+pandas
+openpyxl

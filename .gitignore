@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+test/__pycache__/
+*.log
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Excel temporary files
+~$*.xlsx
+
+# Python environment
+pip-log.txt
+
+# App data
+__pypackages__/
